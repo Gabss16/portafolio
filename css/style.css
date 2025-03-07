@@ -710,7 +710,7 @@ a:focus {
     box-shadow: 0 0 15px rgba(0, 0, 0, .12);
 }
 
-.portfolio .portfolio-text h3 {
+.portfolio .portfolio-text a {
     width: calc(100% - 70px);
     font-size: 18px;
     font-weight: 600;
